@@ -1,5 +1,5 @@
 
-# 👋 ¡Hola! Soy [Hugo Alejandro Gomez]  
+# 👋 ¡Hola! Soy Hugo Alejandro Gomez  
 
 ## 🔧 Acerca de mí  
 - 🎓 **Técnico Electrónico**  
